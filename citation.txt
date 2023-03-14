@@ -1,0 +1,6 @@
+@inproceedings{REPO-070,
+    author = "Si, Chenyang and Yu, Weihao and Zhou, Pan and Zhou, Yichen and Wang, Xinchao and YAN, Shuicheng",
+    booktitle = "Advances in Neural Information Processing Systems",
+    title = "{Inception Transformer}",
+    year = "2022"
+}
